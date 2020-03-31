@@ -1,2 +1,2 @@
 # ephoria
-Website for ephoria. 
+Website for ephoria.
